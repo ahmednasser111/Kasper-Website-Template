@@ -178,7 +178,7 @@
       }
       .landing {
         min-height: 100vh;
-        background-image: url("..\\images\\landing.jpg");
+        background-image: url("images\\landing.jpg");
         background-size: cover;
         background-color: #121084;
         position: relative;
@@ -293,7 +293,7 @@
       }
       .design {
         padding: var(--section-padding) 0;
-        background-image: url("..\\images\\design-features.jpg");
+        background-image: url("images\\design-features.jpg");
         background-size: cover;
         display: flex;
         align-items: center;
